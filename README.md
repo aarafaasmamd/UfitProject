@@ -15,7 +15,7 @@ This program totally provides a new and interesting way to transform themselves
 in our secret method with no equipment or any supplements nor any other fat burners
 supplements. 
 
-This website I created in a proffesstional way so that i can use it.
+This website I created in a Professionally for a fitness startup program.
 This website consists of 
 * Home
 * services
