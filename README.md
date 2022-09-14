@@ -29,11 +29,11 @@ your journey.
 
 ## Demo
 
-* Project Link :: https://icy-moss-0eb3cbe10.1.azurestaticapps.net/
+* ###Project Link :: https://icy-moss-0eb3cbe10.1.azurestaticapps.net/
 
-* GitHub link :: https://aarafaasmamd.github.io/Ufitproject/
+* ###GitHub link :: https://aarafaasmamd.github.io/Ufitproject/
 
-* Youtube Demo Link :: https://youtu.be/Xlno4HJ3Abc
+* ###Youtube Demo Link :: https://youtu.be/Xlno4HJ3Abc
 
 
 ## Website overview
@@ -62,6 +62,12 @@ and hence they will get the following:
 * Weight loss Program
 * routine program
 * Continous check on meal 
+
+![Ms Azure Webpage](https://github.com/aarafaasmamd/Ufitproject/blob/master/images/website%20contact%20Us%20.png?raw=true)
+
+## Microsoft Azure Portal 
+
+![Ms Azure Webpage](https://github.com/aarafaasmamd/Ufitproject/blob/master/ms%20azure%20webapage.png?raw=true)
 
 
 ## Appendix
