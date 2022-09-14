@@ -28,7 +28,8 @@ The only thing is to enroll to our Ufit (U-Fat Initial Transformation) program a
 your journey.
 
 ## Demo
-https://icy-moss-0eb3cbe10.1.azurestaticapps.net/ 
+
+https://icy-moss-0eb3cbe10.1.azurestaticapps.net/
 
 
 ## Website overview
