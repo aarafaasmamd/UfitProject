@@ -31,7 +31,7 @@ your journey.
 
 * Project Link :: https://icy-moss-0eb3cbe10.1.azurestaticapps.net/
 
-* GitHub link ::  https://aarafaasmamd.github.io/Ufitproject/
+* GitHub link :: https://aarafaasmamd.github.io/Ufitproject/
 
 * Youtube Demo Link :: https://youtu.be/Xlno4HJ3Abc
 
