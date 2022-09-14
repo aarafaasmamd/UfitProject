@@ -83,7 +83,7 @@ Our coaches ensure that each client has the relevant knowledge to sustain their 
 
 ## Deployment
 
-deployed this project on github and microsoft static
+deployed this project on github and microsoft static web app
 
 
 ## Languages Used
